@@ -35,7 +35,7 @@ const Leader = () => {
               <div className="absolute -top-10 -left-10 w-40 h-40 border border-gray-200"></div>
               
               <img 
-                src="/public/leader/leader.jpg" 
+                src="/leader/leader.jpg" 
                 alt="Ачилова Лилия Илхомовна" 
                 className="w-full h-[600px] object-cover transition-all duration-700"
               />
